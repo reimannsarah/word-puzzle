@@ -1,4 +1,9 @@
 function wordPuzzle (sentence) {
+  const vowels = ["a","e","i","o","u"]
+  let wordGame = "";
   const letterArray = sentence.split("");
-  return letterArray
-}
+  letterArray.forEach(function(letter){
+    
+  })
+
+};
